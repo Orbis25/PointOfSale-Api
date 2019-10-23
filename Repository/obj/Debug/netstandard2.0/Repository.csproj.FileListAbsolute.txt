@@ -1,0 +1,53 @@
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\Repository\obj\Debug\netstandard2.0\Repository.pdb

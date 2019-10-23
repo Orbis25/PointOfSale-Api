@@ -1,0 +1,106 @@
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Orbis\Downloads\PointOfSaleNetCore-Api\PointOfSale\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\oalonzo\Downloads\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\Compressed\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\oalonzo\Documents\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.deps.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.runtimeconfig.dev.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csprojAssemblyReference.cache
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.AssemblyInfo.cs
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.csproj.CopyComplete
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.dll
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\obj\Debug\netcoreapp2.0\PointOfSale.pdb
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Orbis\Downloads\Compressed\PointOfSaleNetCore-Api-master\PointOfSale\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
